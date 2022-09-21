@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>摳摳</title>
+</head>
+
+<body>
+  </nav>
+  <h1>摳摳</h1>
+  <nav>
+    <ul>
+      <li><a href="#introduction">介紹</a></li>
+      <li><a href="#habitat">日常</a></li>
+      <li><a href="#media">照片</a></li>
+    </ul>
+  </nav>
+  <div id="introduction">
+    <h2>關於摳摳</h2>
+    <p>摳摳 (<em>我家的貓</em>) 非常可愛，他是領養來的，但是十分不親人，不給別人抱，
+        只有肚子餓的時候才會撒嬌。</p>
+    
+  </div>
+  <div id="habitat">
+    <h2>日常</h2>
+    <p>摳摳每天喜歡在鞋櫃上面睡覺
+        早上會找人要一條肉泥吃</p>
+  </div>
+  <div id="media">
+    <h2>照片</h2>
+    <a href="https://ibb.co/4jXvTWD"><img src="https://i.ibb.co/ZhF48dw/IMG-0638.jpg" alt="IMG-0638" border="0"></a>
+    <a href="https://ibb.co/C0HNvbd"><img src="https://i.ibb.co/4NV9M8y/image.png" alt="image" border="0"></a>
+  </div>
+</body>
+
+</html>
